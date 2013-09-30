@@ -1,4 +1,4 @@
 how-it-works
 ============
 
-Repository for tests
+Get new knowledge how github fork & pull request working.
