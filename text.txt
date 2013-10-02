@@ -1,6 +1,7 @@
 clear commit
 some changes
 some changes 2
+some changes 3
 New line.
 
 Another user email.
