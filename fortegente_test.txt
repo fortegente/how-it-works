@@ -1,3 +1,4 @@
 some text
 another text
 some additional text
+New line.
