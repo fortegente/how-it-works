@@ -2,3 +2,4 @@ some text
 another text
 some additional text
 strange line
+New line.
