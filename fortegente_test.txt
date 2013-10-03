@@ -3,3 +3,4 @@ another text
 some additional text
 strange line
 New line.
+add new line just for test
