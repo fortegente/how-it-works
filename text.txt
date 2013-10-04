@@ -1,14 +1,7 @@
 clear commit
 some changes
 some changes 2
-some changes 3
-New line.
-
-Another user email.
-New line.
-
 New line.
 Another user email.
-some changes 3
-Another user email.
-Another user email.Another user email.
+One.
+Two.
