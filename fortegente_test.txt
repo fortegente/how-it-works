@@ -5,3 +5,4 @@ strange line
 New line.
 add new line just for test
 change in the test brunch
+nice string.
