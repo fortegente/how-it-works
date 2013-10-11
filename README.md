@@ -1,4 +1,4 @@
-new text line
+1- 1 new text line
 new line.
 new line.
 
@@ -11,3 +11,5 @@ And more.
 And more.
 Visible comment.
 New Line.
+New line.
+New line. \n
