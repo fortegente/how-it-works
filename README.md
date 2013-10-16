@@ -12,3 +12,4 @@ And more.
 Visible comment.
 New Line.
 New line.
+New line. \n
